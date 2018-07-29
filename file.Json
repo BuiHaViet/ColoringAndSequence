@@ -1,0 +1,77 @@
+[
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fbcd",
+    "status": "installation",
+    "sequence": "1"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fbfa",
+    "status": "installation",
+    "sequence": "2"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fc15",
+    "status": "installation",
+    "sequence": "3"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fc3b",
+    "status": "installation",
+    "sequence": "4"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fc60",
+    "status": "installation",
+    "sequence": "5"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fc7e",
+    "status": "installation",
+    "sequence": "6"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fcae",
+    "status": "installation",
+    "sequence": "7"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fcd5",
+    "status": "manufacturing",
+    "sequence": "8"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fcfb",
+    "status": "manufacturing",
+    "sequence": "9"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fd20",
+    "status": "manufacturing",
+    "sequence": "10"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fd49",
+    "status": "manufacturing",
+    "sequence": "11"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fd74",
+    "status": "transport",
+    "sequence": "12"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fd9a",
+    "status": "transport",
+    "sequence": "13"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fdbc",
+    "status": "transport",
+    "sequence": "14"
+  },
+  {
+    "GUID": "a30d7852-841a-449c-9ac2-82e98e391ec5-0004fdea",
+    "status": "transport",
+    "sequence": "15"
+  }
+]
